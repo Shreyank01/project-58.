@@ -1,0 +1,74 @@
+body {
+  text-align:center;
+} 
+ 
+
+#sec {
+  background: linear-gradient(60deg, #ff26d4 0%, #26a1ff 100%);
+  z-index: 9;
+   
+}
+#img1 {
+  width:350px;
+}
+#sec1 {
+  background:linear-gradient(90deg, #75ffbf , #ffffff ,#75ffbf );
+}
+
+#img2 {
+  width:250px;
+}
+#sec2 {
+  background:linear-gradient(180deg , #25cffa ,#ffffff , #25cffa );
+}
+h1 {
+  font-size:50px;
+  font-family:cursive;
+}
+h2 {
+  font-size:30px;
+  font-family:Impact;
+}
+h3 {
+  font-size:25px;
+}
+#P {
+  font-size:20px;
+}
+#img {
+ width:150px;
+}
+#P2 {
+  font-size:20px;
+  font-family:cursive;
+}
+.menu {
+text-align:center;
+font-family:Righteous;
+font-size:20px;
+position: absolute;
+top: 70px;
+right:400px;
+z-index:10;
+cursor: pointer;
+list-style: none;
+
+}
+.links {
+float:left;
+color:white;
+padding-top:5px;
+padding-bottom: 5px;
+padding-left: 9px;
+padding-right: 9px;
+font-size:20px;
+}
+.links:hover {
+    background-color:green;
+}
+#h1 {
+font-family:Lobster;
+}
+#h2{
+font-family: Zen Tokyo Zoo;
+}
